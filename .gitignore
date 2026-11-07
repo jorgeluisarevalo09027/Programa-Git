@@ -1,0 +1,16 @@
+# Dependencias y compilados
+node_modules/
+bin/
+obj/
+dist/
+
+# Archivos del IDE y del sistema
+.vs/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Registros y datos sensibles
+*.log
+.env
+*.pem
